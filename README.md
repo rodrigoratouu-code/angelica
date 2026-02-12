@@ -331,7 +331,7 @@
     <section class="card">
         <img src="radioRD.webp" alt="Cumpleaños de Aangelica" class="card-img">
 
-        <h1>🎉 ¡Estás invitado! 🎉</h1>
+        <h1>🎉 ¡Estás invitado! </h1>
         <p class="subtitle">Celebramos el cumpleaños de</p>
         <h2 class="name">Angelica</h2>
 

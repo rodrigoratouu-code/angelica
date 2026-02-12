@@ -341,7 +341,7 @@
             <strong>📍</strong> Barcelona
         </div>
 
-        <a href="https://wa.me/XXXXXXXXXXX?text=¡Confirmo%20mi%20asistencia%20al%20cumpleaños%20de%20Ariel!" 
+        <a href="https://wa.me/34685593532?text=¡Confirmo%20mi%20asistencia%20al%20cumpleaños%20de%20Angelica!" 
            target="_blank" 
            id="btn-confirmar" 
            class="btn">

@@ -7,7 +7,7 @@
 
     <!-- Open Graph / WhatsApp -->
     <meta property="og:title" content="🎉 Invitación de Cumpleaños - Angelica" />
-    <meta property="og:description" content="¡Estás invitado! 📅 Sábado 22 de Febrero - 18:00 hs - Barcelona" />
+    <meta property="og:description" content="¡Estás invitado! 📅 Sábado 21 de Febrero - 18:00 hs - Barcelona" />
     <meta property="og:image" content="https://rodrigoratouu-code.github.io/angelica/)/imagen.webp" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://rodrigoratouu-code.github.io/angelica/" />
@@ -15,7 +15,7 @@
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="🎉 Invitación de Cumpleaños - Ariel" />
-    <meta name="twitter:description" content="¡Estás invitado! 📅 Sábado 22 de Febrero - 18:00 hs - Barcelona" />
+    <meta name="twitter:description" content="¡Estás invitado! 📅 Sábado 21 de Febrero - 18:00 hs - Barcelona" />
     <meta name="twitter:image" content="https://TU-USUARIO.github.io/TU-REPO/imagen.webp" />
 
     <style>
@@ -336,7 +336,7 @@
         <h2 class="name">Angelica</h2>
 
         <div class="details">
-            <strong>📅</strong> Sábado 22 de Febrero<br>
+            <strong>📅</strong> Sábado 21 de Febrero<br>
             <strong>🕒</strong> 18:00 hs<br>
             <strong>📍</strong> Barcelona
         </div>

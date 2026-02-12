@@ -351,7 +351,7 @@
 
     <p class="mini-link">
         ¿Quieres una tarjeta digital como esta?
-        <a href="https://wa.me/34XXXXXXXXX?text=Hola%2C%20quiero%20una%20tarjeta%20digital%20personalizada" target="_blank">
+        <a href="https://wa.me/34617602632?text=Hola%2C%20quiero%20una%20tarjeta%20digital%20personalizada" target="_blank">
             Pídela aquí
         </a>
     </p>

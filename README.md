@@ -8,7 +8,7 @@
     <!-- Open Graph / WhatsApp -->
     <meta property="og:title" content="🎉 Invitación de Cumpleaños - Angelica" />
     <meta property="og:description" content="¡Estás invitado! 📅 Sábado 21 de Febrero - 18:00 hs - Barcelona" />
-    <meta property="og:image" content="https://rodrigoratouu-code.github.io/angelica/)/imagen.webp" />
+    <meta property="og:image" content="https://rodrigoratouu-code.github.io/angelica/imagen.webp" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://rodrigoratouu-code.github.io/angelica/" />
 
